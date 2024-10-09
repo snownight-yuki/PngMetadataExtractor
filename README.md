@@ -31,7 +31,7 @@
 2. アプリケーションのスクリプトを実行します。
 
    ```bash
-   python your_script_name.py
+   python PngMetaExtractor.py
    ```
 
 3. exeファイルを作成する場合は、以下のコマンドを使用します。
@@ -86,7 +86,7 @@ This application allows you to drag and drop PNG images into the window, display
 2. Run the script:
 
    ```bash
-   python your_script_name.py
+   python PngMetaExtractor.py
    ```
 
 3. To create an executable file, use the following command:
