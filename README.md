@@ -37,7 +37,7 @@
 3. exeファイルを作成する場合は、以下のコマンドを使用します。
 
    ```bash
-   pyinstaller --onefile --windowed your_script_name.py
+   pyinstaller --onefile --windowed PngMetaExtractor.py
    ```
 
 4. 実行ファイルが作成されたら、`dist`フォルダ内の `.exe` ファイルを実行します。
@@ -92,7 +92,7 @@ This application allows you to drag and drop PNG images into the window, display
 3. To create an executable file, use the following command:
 
    ```bash
-   pyinstaller --onefile --windowed your_script_name.py
+   pyinstaller --onefile --windowed PngMetaExtractor.py
    ```
 
 4. Once the executable is created, run the `.exe` file from the `dist` folder.
