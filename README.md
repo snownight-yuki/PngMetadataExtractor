@@ -1,8 +1,6 @@
 
 # 画像表示＆メタデータ抽出ツール / Image Viewer & Metadata Extractor Tool
 
-## 日本語
-
 ### アプリケーション名: 画像表示＆メタデータ抽出ツール
 
 ### 概要
@@ -57,8 +55,6 @@
 MITライセンス
 
 ---
-
-## English
 
 ### Application Name: Image Viewer & Metadata Extractor Tool
 
